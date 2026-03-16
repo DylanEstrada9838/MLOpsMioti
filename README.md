@@ -80,7 +80,6 @@ pycache/
 *.py[cod]
 
 # Datos y Modelos (serán gestionados por DVC)
-data/*
 models/.pkl
 models/.joblib
 
